@@ -1,0 +1,32 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+}
+.primeira{
+    background-color: #FFAEB9;
+}
+.segunda{
+    background-color: #6CA6CD;
+}
+.terceira{
+    background-color: #FFC125;
+   
+}
+li{
+    vertical-align: top;
+    display: inline-block;
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+    color: black;
+    text-align: center;
+}
+.texto{
+    color: black;
+}
+strong{
+    display: inline-block;
+    margin: 2px;
+    padding: 2.5px;
+    background-color:palegreen;
+    color: blue;
+}
